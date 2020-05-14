@@ -19,7 +19,7 @@ function handleSubmit(event) {
 
 function paintInput() {
   const input = document.createElement("input");
-  input.placeholder = "Type your name here";
+  input.placeholder = "여기에 이름을 적으세요.";
   input.type = "text";
   input.className = "name__input";
   const form = document.createElement("form");
