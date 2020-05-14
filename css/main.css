@@ -46,12 +46,14 @@ input {
   background: none;
   appearance: none;
   border: 0;
+  font-family: 'NanumSquare';
   font-size: 22px;
   color: white;
   border-bottom: 2px solid white;
 }
 
 input::placeholder {
+  font-family: 'NanumSquare';
   color: white;
 }
 
